@@ -17,6 +17,6 @@
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-# git clone https://github.com/Zxilly/UA2F.git package/UA2F
+git clone https://github.com/Zxilly/UA2F.git package/UA2F
 # git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
-# git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
